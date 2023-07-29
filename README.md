@@ -1,5 +1,5 @@
 ### 🚀 Sobre mim 👽 ###
-Meu nome é Alisson, tenho 23 anos, sou estudante de desenvolvimento Front-end.
+Meu nome é Alisson, tenho 23 anos, moro em São Paulo(capital), procuro oportunidades na área de programação. Eu sou estudante de desenvolvimento Front-end.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Santos-0088FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-simoes-dos-santos/)](https://www.linkedin.com/in/alisson-simoes-dos-santos/) 
 [![Gmail Badge](https://img.shields.io/badge/-alissonss.contato@gmail.com-0088FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonss.contato@gmail.com)](mailto:alissonss.contato@gmail.com)
@@ -10,9 +10,7 @@ Ensino Médio completo. Atuação por mais de um ano com Suporte de TI e Monitor
  - Configuração de impressora e rede.
  - Pacote Office (Word, Excel, Powerpoint, Outlook).
  - Sistema Zanthus e sistema MDM com Navita.
- - Configurações e resoluções de problemas referente a serviços de E-mail e Domínios. 
-
-Atualmente estou estudando Desenvolvimento FrontEnd para migrar de área.
+ - Configurações e resoluções de problemas referente a serviços de E-mail e Domínios.
 
 
 <!--
