@@ -1,5 +1,8 @@
-### 🚀 Sobre mim ###
+### 🚀 Sobre mim 👽 ###
 Meu nome é Alisson, tenho 23 anos, sou estudante de desenvolvimento Front-end.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Santos-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-simoes-dos-santos/)](https://www.linkedin.com/in/alisson-simoes-dos-santos/) 
+[![Gmail Badge](https://img.shields.io/badge/-alissonss.contato@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissonss.contato@gmail.com)](mailto:alissonss.contato@gmail.com)
 
 Ensino Médio completo. Atuação por mais de um ano com Suporte de TI e Monitor de Informática. Tenho os seguintes conhecimentos: 
  - Montagem e manutenção de computadores.
