@@ -11,7 +11,7 @@ Ensino Médio completo. Atuação por mais de um ano com Suporte de TI e Monitor
  - Pacote Office (Word, Excel, Powerpoint, Outlook).
  - Sistema Zanthus e sistema MDM com Navita.
  - Configurações e resoluções de problemas referente a serviços de E-mail e Domínios.
- - HTML, CSS, Javascript, React, Styled-components, Tailwind e Git.
+ - HTML, CSS, Javascript, React, Styled-components e Git.
 
 
 <!--
